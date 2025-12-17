@@ -79,3 +79,6 @@ Then open http://localhost:8888 in your browser.
 Milica Antić
 
 ---
+## License
+
+This project is licensed under the MIT License
